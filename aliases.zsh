@@ -10,7 +10,7 @@ alias gb='git branch'
 alias gbd='git branch -d'
 
 
-#para ir mis proyectos , solo ejecutar  i/carpeta_proyecto
+#para ir mis proyectos , solo ejecutar  i carpeta_proyecto
 
 
 function i() {
